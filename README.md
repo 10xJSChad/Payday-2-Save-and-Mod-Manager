@@ -3,11 +3,13 @@
 A simple save and mod manager for Payday 2.
 This program makes it incredibly fast & easy to swap saves in Payday 2, as well as allowing for mods to be assigned to saves and automatically loaded/unloaded when swapping save.
 
+I made this back in 2017 but just now (June 2021) found the source code for it, I only fixed a few bugs before uploading it here.
+
 ![](https://i.imgur.com/fK5qBNa.png)
 
 ### Using the Save and Mod Manager for Payday 2
 
-1. Download the latest release
+1. Download the [latest release](https://github.com/10xJSChad/Payday-2-Save-Manager/releases/latest)
 2. Run PaydaySwap.exe, when launching it for the first time, it will prompt you to select your game and save path
 3. Run PaydaySwap.exe again, it will prompt you to select a name for your save
 4. Done! The Save and Mod Manager is now ready to be used.
