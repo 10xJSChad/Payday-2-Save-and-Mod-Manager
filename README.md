@@ -1,6 +1,9 @@
 # Save and Mod Manager for Payday 2
+
 A simple save and mod manager for Payday 2.
 This program makes it incredibly fast & easy to swap saves in Payday 2, as well as allowing for mods to be assigned to saves and automatically loaded/unloaded when swapping save.
+
+![](https://i.imgur.com/fK5qBNa.png)
 
 ### Using the Save and Mod Manager for Payday 2
 
