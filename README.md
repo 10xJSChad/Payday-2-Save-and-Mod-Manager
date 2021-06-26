@@ -7,6 +7,10 @@ I made this back in 2017 but just now (June 2021) found the source code for it, 
 
 ![](https://i.imgur.com/fK5qBNa.png)
 
+### For those worried about losing their saves!
+This program **CAN NOT** delete your save, it simply does not have the ability to delete or move your save whatsoever, it can only **rename** when loading or unloading it.
+The Save and Mod Manager is 100% safe for your saves. 
+
 ### Using the Save and Mod Manager for Payday 2
 
 1. Download the [latest release](https://github.com/10xJSChad/Payday-2-Save-Manager/releases/latest)
