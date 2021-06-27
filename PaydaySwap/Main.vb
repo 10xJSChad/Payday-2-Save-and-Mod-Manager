@@ -256,11 +256,9 @@ Public Class Main
     End Sub
 
     Private Sub SteamLink_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs)
-        Process.Start("http://steamcommunity.com/id/IKNCU/")
     End Sub
 
     Private Sub GroupLink_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs)
-        Process.Start("http://steamcommunity.com/groups/HeroesofHelheim")
     End Sub
 
     Private Sub ConfirmBox_Click(sender As Object, e As EventArgs) Handles ConfirmBox.Click
